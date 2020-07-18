@@ -14,7 +14,7 @@ from domain.EnemyPlane import EnemyPlane
 # 界面主入口
 def main():
     # 1、设定窗口
-    screen = pygame.display.set_mode((480, 852), 0, 32)
+    screen = pygame.display.set_mode((880, 852), 0, 32)
 
     # 2、加载背景
     background = pygame.image.load("./images/background.png")
