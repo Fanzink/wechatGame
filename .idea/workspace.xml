@@ -19,15 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="73a0c189-431b-4ffa-bc94-a73cb4fdbfda" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_planeWar/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_planeWar/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="73a0c189-431b-4ffa-bc94-a73cb4fdbfda" name="Default Changelist" comment="12" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,7 +80,16 @@
       <option name="presentableId" value="Default" />
       <updated>1595039191183</updated>
       <workItem from="1595039192543" duration="838000" />
+      <workItem from="1595040048615" duration="305000" />
     </task>
+    <task id="LOCAL-00001" summary="12">
+      <created>1595040309469</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1595040309470</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,9 +105,11 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="12" />
+    <option name="LAST_COMMIT_MESSAGE" value="12" />
   </component>
   <component name="WindowStateProjectService">
     <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1595040031182">
@@ -125,14 +128,18 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1595040031182" />
+    <state x="457" y="42" key="RollbackChangesDialog" timestamp="1595040190107">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="457" y="42" key="RollbackChangesDialog/0.0.1280.680@0.0.1280.680" timestamp="1595040190107" />
     <state x="142" y="0" key="SettingsEditor" timestamp="1595039971422">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1595039971422" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1595039378165">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1595040344889">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1595039378165" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1595040344889" />
     <state x="438" y="254" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1595039755921">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -141,6 +148,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="430" y="128" key="git4idea.merge.GitMergeDialog/0.0.1280.680@0.0.1280.680" timestamp="1595039361450" />
+    <state x="343" y="128" key="git4idea.merge.GitPullDialog" timestamp="1595040222569">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="343" y="128" key="git4idea.merge.GitPullDialog/0.0.1280.680@0.0.1280.680" timestamp="1595040222569" />
     <state x="430" y="240" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1595039607978">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
